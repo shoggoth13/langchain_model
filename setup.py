@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="langchain_model",
-    version="0.0.4",
+    version="0.0.6",
     description="Populate Pydantic Models with LangChain",
     packages=find_packages(),
     install_requires=[
